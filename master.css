@@ -1,0 +1,17 @@
+.btn-group{
+  width: 40%;
+}
+.dropdown-menu{
+  width: 100%;
+  text-align: center;
+}
+
+.mb-2{
+  margin-left: 0.1rem;
+  margin-right: 0.1rem;
+  }
+.card-text{
+  text-align: justify;
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
